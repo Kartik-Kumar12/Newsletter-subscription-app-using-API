@@ -1,7 +1,7 @@
 # Newsletter-subscription-app
 An node.js app used for signing users to Newsletter using Mailchimp API
 
-<h4>Link to the website : <font cpolor ="lightblue"> https://morning-forest-25822.herokuapp.com</font>
+<h4>Link to the website : <font cpolor ="lightblue">https://fathomless-crag-62221.herokuapp.com/</font>
 <h3>Functionality Specs</h3>
 <h5> > A signup page which users use to sign to a Newletter</h5>
 <h5> > Uses node modules for working on server side</h5>
